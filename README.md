@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm `Free` or `Punnaanan K.`
+### <h1 align="center">Hi there! 👋 I'm `Free` or `Punnaanan K.`</h1>
 
 🎓 Currently pursuing a Master of Science in Chemical Technology at Chulalongkorn University with a focus on `integrating technology into chemical engineering`. 
 
