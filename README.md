@@ -1,6 +1,6 @@
-## Hi there! 👋 I'm Free or Punnaanan K.
+## Hi there! 👋 I'm `Free` or `Punnaanan K.`
 
-🎓 Currently pursuing a Master of Science in Chemical Technology at Chulalongkorn University with a focus on integrating technology into chemical engineering. 
+🎓 Currently pursuing a Master of Science in Chemical Technology at Chulalongkorn University with a focus on `integrating technology into chemical engineering`. 
 
 ### About Me
 I’m a **dynamic chemical engineering professional** 🌟 specializing in **process simulation** 🔄, **techno-economic analysis** 📊, and **sustainable technology** 🌱 development. My goal is to leverage technology to drive innovation within the field of chemical engineering. 
