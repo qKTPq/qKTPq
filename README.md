@@ -18,7 +18,7 @@ _Chulalongkorn University, Bangkok, Thailand (Aug 2018 – Jun 2022)_
 
 **🏫 High School Diploma**  
 _Pibulwitthayalai School, Lopburi, Thailand (May 2015 – Apr 2018)_  
-- GPA: 4.XX
+- GPA: 3.8X
 
 ### Experience
 **💻 Part-Time Software Developer**  
