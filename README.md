@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi there! 👋 I'm `Free` or `Punnaanan K.`</h1>
 
-🎓 Currently pursuing a Master of Science in Chemical Technology at <span style="color: pink;">Chulalongkorn University</span> with a focus on `integrating technology into chemical engineering`. 
+🎓 Currently pursuing a Master of Science in Chemical Technology at <span style="color: pink;">Chulalongkorn University</span> with a focus on `integrating computer technology into chemical engineering`. 
 
 ### About Me
 I’m a **dynamic chemical engineering professional** 🌟 specializing in **process simulation** 🔄, **techno-economic analysis** 📊, and **sustainable technology** 🌱 development. My goal is to leverage technology to drive innovation within the field of chemical engineering. 
