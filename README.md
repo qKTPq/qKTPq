@@ -53,7 +53,7 @@ _i APC Consulting Company Limited, Bangkok, Thailand (Aug 2022 – Jan 2023)_
 
 ### Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kantaphan-punnaanan/)  
-- 🌐 [Website](https://www.kantaphan.fyi)  
+- 🌐 [Website](https://www.kantaphan.dev)  
 - 🐙 [GitHub](https://github.com/qKTPq)
 - 💬 [Discord](https://discord.com/users/667339182087340032) 
 - 📧 Email: [Kantaphan.P@outlook.com](mailto:Kantaphan.P@outlook.com)  
